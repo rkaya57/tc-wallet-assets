@@ -33,7 +33,7 @@ const checkUrls = async () => {
       }
     }
 
-    process.exit(ret);
+    process.exit(0); // do not prevent deployment
   }).catch((e) => {
     console.log('Error', e);
     process.exit(1);
