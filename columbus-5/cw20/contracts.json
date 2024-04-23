@@ -1357,5 +1357,11 @@
         "symbol": "TADF",
         "decimals": 6,
         "logo": "https://wallet-assets.terra-classic.io/columbus-5/cw20/logos/tadf.png"
+    },
+    "terra13ckj8swv4xpnh98z4ltpa664ryg7suu89tlqlz8zecwp9pc2r2xstdn7r2": {
+        "name": "Staking FROG Token",
+        "symbol": "sFROG",
+        "decimals": 6,
+        "logo": "https://wallet-assets.terra-classic.io/columbus-5/cw20/logos/sFROG.png"
     }
 }
