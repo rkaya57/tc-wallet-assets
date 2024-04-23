@@ -1363,5 +1363,11 @@
         "symbol": "sFROG",
         "decimals": 6,
         "logo": "https://wallet-assets.terra-classic.io/columbus-5/cw20/logos/sFROG.png"
+    },
+    "terra1l435jetw69mxym6enacraelpsp85se4mhkpcea8342s3vanqv9yqp74p42": {
+        "name": "CODE Token",
+        "symbol": "CODE",
+        "decimals": 6,
+        "logo": "https://wallet-assets.terra-classic.io/columbus-5/cw20/logos/CODE.png"
     }
 }
