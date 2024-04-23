@@ -1351,5 +1351,11 @@
         "symbol": "FROG",
         "decimals": 6,
         "logo": "https://wallet-assets.terra-classic.io/columbus-5/cw20/logos/FROG.png"
+    },
+    "terra19gzvkw5hft3ulp8n6ws3p9yradhc802axqal59lzxau6rqxktj9q0dwf9c": {
+        "name": "Tadpole Frogztrik Token",
+        "symbol": "TADF",
+        "decimals": 6,
+        "logo": "https://wallet-assets.terra-classic.io/columbus-5/cw20/logos/tadf.png"
     }
 }
