@@ -1345,5 +1345,29 @@
         "name": "RAKOFF",
         "logo": "https://raw.githubusercontent.com/RakoffToken/assets/main/rakoff.png",
         "decimals": 6
+    },
+    "terra1wez9puj43v4s25vrex7cv3ut3w75w4h6j5e537sujyuxj0r5ne2qp9uwl9": {
+        "name": "Frogztrik NFT Token",
+        "symbol": "FROG",
+        "decimals": 6,
+        "logo": "https://wallet-assets.terra-classic.io/columbus-5/cw20/logos/FROG.png"
+    },
+    "terra19gzvkw5hft3ulp8n6ws3p9yradhc802axqal59lzxau6rqxktj9q0dwf9c": {
+        "name": "Tadpole Frogztrik Token",
+        "symbol": "TADF",
+        "decimals": 6,
+        "logo": "https://wallet-assets.terra-classic.io/columbus-5/cw20/logos/tadf.png"
+    },
+    "terra13ckj8swv4xpnh98z4ltpa664ryg7suu89tlqlz8zecwp9pc2r2xstdn7r2": {
+        "name": "Staking FROG Token",
+        "symbol": "sFROG",
+        "decimals": 6,
+        "logo": "https://wallet-assets.terra-classic.io/columbus-5/cw20/logos/sFROG.png"
+    },
+    "terra1l435jetw69mxym6enacraelpsp85se4mhkpcea8342s3vanqv9yqp74p42": {
+        "name": "CODE Token",
+        "symbol": "CODE",
+        "decimals": 6,
+        "logo": "https://wallet-assets.terra-classic.io/columbus-5/cw20/logos/CODE.png"
     }
 }
