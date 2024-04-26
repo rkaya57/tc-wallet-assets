@@ -1374,6 +1374,9 @@
         "name": "AetherVerge Token",
         "symbol": "AEVE",
         "decimals": 6,
-        "logo": "https://wallet-assets.terra-classic.io/columbus-5/cw20/logos/AEVE.png"
+        "logo": "https://wallet-assets.terra-classic.io/columbus-5/cw20/logos/AEVE.png",
+        "markets": {
+            "AetherVerge": "https://aetherverge.io/dex"
+        }
     }
 }
