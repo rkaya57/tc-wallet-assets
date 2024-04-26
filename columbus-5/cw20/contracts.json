@@ -1369,5 +1369,11 @@
         "symbol": "CODE",
         "decimals": 6,
         "logo": "https://wallet-assets.terra-classic.io/columbus-5/cw20/logos/CODE.png"
+    },
+    "terra17utj66xmtc05gdnkvzntpcfpryquzyuk4mcthnuldgqanjhvnzmqmfz53p": {
+        "name": "AetherVerge Token",
+        "symbol": "AEVE",
+        "decimals": 6,
+        "logo": "https://wallet-assets.terra-classic.io/columbus-5/cw20/logos/AEVE.png"
     }
 }
