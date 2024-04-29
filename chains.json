@@ -16,6 +16,7 @@
         "prefix": "terra",
         "governanceToken": "uluna",
         "operatorPrefix": "terravaloper",
+        "consensusPrefix": "terravalcons",
         "gasPrices": {
             "fcd": "/v1/txs/gas_prices" 
         },
@@ -81,6 +82,7 @@
         "prefix": "terra",
         "governanceToken": "uluna",
         "operatorPrefix": "terravaloper",
+        "consensusPrefix": "terravalcons",
         "gasPrices": {
             "fcd": "/v1/txs/gas_prices" 
         },
