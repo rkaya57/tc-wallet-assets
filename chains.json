@@ -24,9 +24,9 @@
         "taxable": true,
         "testnet": false,
         "explorer": {
-            "address": "https://finder.terra.money/columbus-5/address/{address}",
-            "tx": "https://finder.terra.money/columbus-5/tx/{txHash}",
-            "validator": "https://finder.terra.money/columbus-5/validator/{validator}"
+            "address": true,
+            "tx": true,
+            "validator": true
         }
     },
     "rebel-2": {
@@ -44,8 +44,7 @@
                 "https://rpc.luncblaze.com"
             ]
         },
-        "testnet": true,
-        "explorer": null
+        "testnet": true
     },
     "octagon-1": {
         "inheritChain": "columbus-5",
