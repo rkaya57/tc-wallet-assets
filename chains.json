@@ -18,7 +18,8 @@
         "operatorPrefix": "terravaloper",
         "consensusPrefix": "terravalcons",
         "gasPrices": {
-            "fcd": "/v1/txs/gas_prices" 
+            "fcd": "/v1/txs/gas_prices",
+            "denom": [{"denom": "uluna", "amount": "28.325"}]
         },
         "legacy": true,
         "taxable": true,
