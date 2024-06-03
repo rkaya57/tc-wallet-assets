@@ -1396,5 +1396,23 @@
         "symbol": "Catnip",
         "decimals": 6,
         "logo": "https://i.ibb.co/Cz2mHQ4/catnip-token.png"
+    },
+    "terra13d6xlk4d6cfa6c5c7n2ffua5d5fk5ggfq8vsxr34xnxr07nmke0qajzu8y": {
+        "name": "Elon Meme",
+        "symbol": "ELON",
+        "decimals": 6,
+        "logo": "https://ibb.co.com/GRJ4mvs"
+    },
+    "terra1t9gw5njcx009ud2ke7txq92hx5v75arsctzch9nyxv0096987c4q9fwvzy": {
+        "name": "Tesla Automobile",
+        "symbol": "TeslaX",
+        "decimals": 6,
+        "logo": "https://ibb.co.com/3h7GTjx"
+    },
+    "terra14mqjm7n23ky3479hmaarzqnwrlmapje08runh5m7a29rz6sunhpsn9pq27": {
+        "name": "SpaceX Rocket Token",
+        "symbol": "SpaceX",
+        "decimals": 6,
+        "logo": "https://ibb.co.com/M7dzZc8"
     }
 }
