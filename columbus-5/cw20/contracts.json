@@ -1339,5 +1339,23 @@
         "name": "FORCE",
         "logo": "https://i.ibb.co/6BCq2Gy/force.png",
         "decimals": 6
+    },
+    "terra12j3xuxx52cg045qk37ee4k4u4fsgvyuf8d89dh7c9mr706jvxdascahqej": {
+        "symbol": "ROTTI",
+        "name": "Rottweiler",
+        "logo": "https://i.ibb.co.com/jRP4s0q/ROTTI.jpg",
+        "decimals": 6
+    },
+    "terra1vxhnzlr44ajzq84xra07gtvyv5saxmsyz6cd5cewqm479znvsepqzdkk05": {
+        "symbol": "PIZZAB",
+        "name": "Pizzaboy",
+        "logo": "https://i.ibb.co.com/YTtCpL9/Pizzaboy.jpg",
+        "decimals": 6
+    },
+    "terra1nv36kq4dpxf4d00w4mv4w095ek8kv48f54v46qduruy4fwd2dtzq2uk70j": {
+        "symbol": "TKMN",
+        "name": "TUTAN KHAMUN",
+        "logo": "https://i.ibb.co.com/wR2spDZ/TKMN.jpg",
+        "decimals": 6
     }
 }
