@@ -47,7 +47,7 @@
     "terra1rk25c0d90mr5jkz2rh2rz6l5sk0f6ppgcuhm8p": {
         "name": "Luna Bugz",
         "symbol": "Bugz",
-        "logo": "https://ipfs.lunapunks.io/ipfs/QmcYd3ae6wPVgFggasANeaCW895ZMYYxdtzg4hoeTKjhsk/icon.jpg",
+        "logo": "",
         "homepage": "https://lunabugz.com/",
         "markets": [
             "https://launchpad.lunapunks.io/market/1/1"
@@ -69,6 +69,15 @@
         "homepage": "https://lunccandy.tech/",
         "markets": [
             "https://www.bigbangx.io/collection/abd6c47f-d470-11ee-8f4f-96000267e405"
+        ]
+    },
+        "terra13c6r0mml6cv05ujh8yn7a6zx4tmg5zm4fc3vzun0l3pw2yz09qaq9jwfsj": {
+        "name": "LUNC Cats Wif Hats Collection 1",
+        "symbol": "CWHC1",
+        "logo": "https://i.ibb.co/LS8HmHz/Stoned-Cat-1-2.jpg",
+        "homepage": "https://www.catwifhat-tc.xyz",
+        "markets": [
+            "https://bigbangx.io/collection/lunc-cats-wif-hats-collection-1"
         ]
     },
     "terra19wz8gw49hp0myv7fnzuwhfaml684pcn7falsk0": {

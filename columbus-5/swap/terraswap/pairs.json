@@ -1,3 +1,46 @@
-{
-    
-}
+[
+    {
+        "asset_one": {
+            "denom": "uluna",
+            "type": "native"
+        },
+        "asset_two": {
+            "denom": "uusd",
+            "type": "native"
+        },
+        "contract": "terra1l7vy20x940je7lskm6x9s839vjsmekz9k9mv7g"
+    },
+    {
+        "asset_one": {
+            "denom": "uluna",
+            "type": "native"
+        },
+        "asset_two": {
+            "denom": "terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs",
+            "type": "cw20"
+        },
+        "contract": "terra18f60c3xr8f4cq0u7m70gr6k8845rs4yagdtj80j8e9cyxmj7uj6shxl2e5"
+    },
+    {
+        "asset_one": {
+            "denom": "uluna",
+            "type": "native"
+        },
+        "asset_two": {
+            "denom": "terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00",
+            "type": "cw20"
+        },
+        "contract": "terra1rdm4u439w8lery29m5dv5z6w7raea0gvt29qefqhr37n5n4yhphsxlqpwc"
+    },
+    {
+        "asset_one": {
+            "denom": "uusd",
+            "type": "native"
+        },
+        "asset_two": {
+            "denom": "terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00",
+            "type": "cw20"
+        },
+        "contract": "terra1ma72dw9wlkj23nar0qxjhecs24ygzywrqu3rphtjzk2czh0jgyrq2n86lz"
+    }
+]

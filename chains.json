@@ -16,12 +16,19 @@
         "prefix": "terra",
         "governanceToken": "uluna",
         "operatorPrefix": "terravaloper",
+        "consensusPrefix": "terravalcons",
         "gasPrices": {
-            "fcd": "/v1/txs/gas_prices" 
+            "fcd": "/v1/txs/gas_prices",
+            "denom": [{"denom": "uluna", "amount": "28.325"}]
         },
         "legacy": true,
         "taxable": true,
-        "testnet": false
+        "testnet": false,
+        "explorer": {
+            "address": true,
+            "tx": true,
+            "validator": true
+        }
     },
     "rebel-2": {
         "inheritChain": "columbus-5",
@@ -55,7 +62,8 @@
                 "https://rpc.terra-classic.hexxagon.dev"
             ]
         },
-        "testnet": true
+        "testnet": true,
+        "explorer": null
     },
     "phoenix-1": {
         "name": "Terra V2",
@@ -74,12 +82,18 @@
         "prefix": "terra",
         "governanceToken": "uluna",
         "operatorPrefix": "terravaloper",
+        "consensusPrefix": "terravalcons",
         "gasPrices": {
             "fcd": "/v1/txs/gas_prices" 
         },
         "legacy": false,
         "taxable": false,
-        "testnet": false
+        "testnet": false,
+        "explorer": {
+            "address": "https://finder.terra.money/{chainId}/address/{address}",
+            "tx": "https://finder.terra.money/{chainId}/tx/{txHash}",
+            "validator": "https://finder.terra.money/{chainId}/validator/{validator}"
+        }
     },
     "pisco-1": {
         "inheritChain": "phoenix-1",
