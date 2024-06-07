@@ -1,3 +1,4 @@
+
 [
     {
         "asset_one": {
@@ -262,5 +263,27 @@
             "type": "cw20"
         },
         "contract": "terra18lzl6drsnyr6m9mplfw2fkr8kw6gsvar7wr8wzqgcx7xva58dhpsq7jgdy"
-    }
+    },
+    {
+      "asset_one": {
+          "denom": "uluna",
+          "type": "native"
+      },
+      "asset_two": {
+          "denom": "terra12j3xuxx52cg045qk37ee4k4u4fsgvyuf8d89dh7c9mr706jvxdascahqej",
+          "type": "cw20"
+      },
+      "contract": "terra1u5tl9hf3q5uhtch5xan5rkf0w9awzn0klwffsphupykafm52n6jqr3ns8y"
+  },
+  {
+    "asset_one": {
+        "denom": "uluna",
+        "type": "native"
+    },
+    "asset_two": {
+        "denom": "terra1vxhnzlr44ajzq84xra07gtvyv5saxmsyz6cd5cewqm479znvsepqzdkk05",
+        "type": "cw20"
+    },
+    "contract": "terra13dmjw2dpj49nnazxq79p6uyfa9jd5rrte9tvcvqywmfaphvsfndqsre727"
+ }
 ]
