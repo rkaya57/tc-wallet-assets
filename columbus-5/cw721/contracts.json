@@ -88,5 +88,14 @@
         "markets": [
             "https://miata.io/creators/16/collection/59"
         ]
+    },
+    "terra1k4jxlmdpru8k9fayhaag6jqwzgaa8jh0993neatmcn99vg0rcmnsny2xjr": {
+        "name": "CODE BOTS",
+        "symbol": "CODE",
+        "logo": "",
+        "homepage": "https://frogztrik.tech",
+        "markets": [
+            "https://miata.io/creators/43/collection/133"
+        ]
     }
 }
