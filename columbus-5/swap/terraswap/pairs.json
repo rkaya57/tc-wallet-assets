@@ -42,5 +42,16 @@
             "type": "cw20"
         },
         "contract": "terra1ma72dw9wlkj23nar0qxjhecs24ygzywrqu3rphtjzk2czh0jgyrq2n86lz"
+    },
+    {
+        "asset_one": {
+            "denom": "terra1l435jetw69mxym6enacraelpsp85se4mhkpcea8342s3vanqv9yqp74p42",
+            "type": "cw20"
+        },
+        "asset_two": {
+            "denom": "terra13ckj8swv4xpnh98z4ltpa664ryg7suu89tlqlz8zecwp9pc2r2xstdn7r2",
+            "type": "cw20"
+        },
+        "contract": "terra1kxvyydsx37q9la59eg79dsjyhn56xcgyjjzgat8js9xlqmr0rcpq82x4yk"
     }
 ]
