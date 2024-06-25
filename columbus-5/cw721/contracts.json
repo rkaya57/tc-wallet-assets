@@ -92,10 +92,19 @@
     "terra1k4jxlmdpru8k9fayhaag6jqwzgaa8jh0993neatmcn99vg0rcmnsny2xjr": {
         "name": "CODE BOTS",
         "symbol": "CODE",
-        "logo": "",
+        "logo": "https://ipfs.miata-ipfs.com/ipfs/QmSbbwkA9UGGyDYG57ea4niyHWP3FfPmpx3HEyoxpWx8ja/1.jpg",
         "homepage": "https://frogztrik.tech",
         "markets": [
             "https://miata.io/creators/43/collection/133"
+        ]
+    },
+    "terra1s4zze0rhjd73qpze0hr3av7g9nsp2te0snp5kd4qe6mugtsewk6q27ah9q": {
+        "name": "FROGZ KAIJU",
+        "symbol": "KAIJU",
+        "logo": "https://ipfs.miata-ipfs.com/ipfs/Qmb4zeJ4KdHhVntKBoCNJ9xrR6AbUR1mZHgrYGgtPSTcp1/1.jpg",
+        "homepage": "https://frogztrik.tech",
+        "markets": [
+            "https://miata.io/creators/25/collection/123"
         ]
     }
 }
