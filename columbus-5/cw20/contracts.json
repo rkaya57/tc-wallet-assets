@@ -1432,5 +1432,11 @@
         "symbol": "SpaceX",
         "decimals": 6,
         "logo": "https://ibb.co.com/M7dzZc8"
+    },
+    "terra1advhdyzja37d3ppgnzgr66p2sgct84kzjdzcaqrx70z8ekj6gd5q6n8a9e": {
+        "name": "BETTING TOKEN",
+        "symbol": "BETTING",
+        "decimals": 6,
+        "logo": "https://i.ibb.co.com/S3hJ6bg/BETTING-Token.jpg"
     }
 }
