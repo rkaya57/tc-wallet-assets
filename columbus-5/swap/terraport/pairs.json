@@ -340,5 +340,16 @@
         "type": "cw20"
     },
     "contract": "terra12nvlyd4d654jst5uha2t8dwl5dz4qyhp7vps0pnu50rzuyge73nq9r4apm"
-}   
+},
+{
+    "asset_one": {
+        "denom": "uluna",
+        "type": "native"
+    },
+    "asset_two": {
+        "denom": "terra1le9l8gpwl2f48xluphnwkqrnhwxqt27xhducfzqvncmsh9swavlqjpy7c9",
+        "type": "cw20"
+    },
+    "contract": "terra1vsqxkcx7jv0q5newczm9x4lpna7rmcph8h5ay0kww0dvymvqfm9q3439gm"
+} 
 ]
