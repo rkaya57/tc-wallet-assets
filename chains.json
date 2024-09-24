@@ -47,19 +47,19 @@
         },
         "testnet": true
     },
-    "octagon-1": {
+    "hellnet-1": {
         "inheritChain": "columbus-5",
-        "name": "Terra Classic Testnet Hexxagon",
-        "chainId": "octagon-1",
+        "name": "Terra Classic Testnet 2 (Hellnet)",
+        "chainId": "hellnet-1",
         "endpoints": {
             "lcd": [
-                "https://lcd.terra-classic.hexxagon.dev"
+                "https://hell-lcd.luncblaze.com"
             ],
             "fcd": [
-                "https://fcd.terra-classic.hexxagon.dev"
+                "https://terra-classic-fcd.publicnode.com"
             ],
             "rpc": [
-                "https://rpc.terra-classic.hexxagon.dev"
+                "https://hell-rpc.luncblaze.com"
             ]
         },
         "testnet": true,
