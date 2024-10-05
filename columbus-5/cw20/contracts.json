@@ -1456,6 +1456,12 @@
         "symbol": "NHERA",
         "decimals": 6,
         "logo": "https://i.ibb.co.com/8c1fmGM/IMG-20240921-202013-833.jpg"
-    }
+    },
+    "terra1pyf0rp73neeyunvelqe2ps029pk3at5xg9sn8hnzvv3pehrjqf2qwx7grv": {
+        "name": "REX Token",
+        "symbol": "REX",
+        "decimals": 6,
+        "logo": "https://i.ibb.co.com/PhXGRCn/REX-token.png"
+    },
     
 }
