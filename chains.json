@@ -62,8 +62,7 @@
                 "https://hell-rpc.luncblaze.com"
             ]
         },
-        "testnet": true,
-        "explorer": null
+        "testnet": true
     },
     "phoenix-1": {
         "name": "Terra V2",
