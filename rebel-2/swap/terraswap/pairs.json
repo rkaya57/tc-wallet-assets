@@ -1,1 +1,13 @@
-[]
+[
+    {
+        "asset_one": {
+            "denom": "uluna",
+            "type": "native"
+        },
+        "asset_two": {
+            "denom": "uusd",
+            "type": "native"
+        },
+        "contract": "terra1xvdtyt6axsa8fz0tfnqd9xe54ptv4jmlg46jxa8zghtp4ssq6xdsmmwy2w"
+    }
+]
