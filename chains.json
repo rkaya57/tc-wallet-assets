@@ -47,6 +47,23 @@
         },
         "testnet": true
     },
+    "hellnet-1": {
+        "inheritChain": "columbus-5",
+        "name": "Terra Classic SecTestnet",
+        "chainId": "hellnet-1",
+        "endpoints": {
+            "lcd": [
+                "https://hell-lcd.luncblaze.com"
+            ],
+            "fcd": [
+                "https://terra-classic-fcd.publicnode.com"
+            ],
+            "rpc": [
+                "https://hell-rpc.luncblaze.com"
+            ]
+        },
+        "testnet": true
+    },
     "phoenix-1": {
         "name": "Terra V2",
         "chainId": "phoenix-1",
