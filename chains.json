@@ -63,7 +63,7 @@
             ]
         },
         "testnet": true,
-        "legacy": false
+        "legacy": true
     },
     "phoenix-1": {
         "name": "Terra V2",
