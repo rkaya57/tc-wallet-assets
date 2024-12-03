@@ -1361,7 +1361,7 @@
     "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2": {
         "symbol": "Juris",
         "name": "Juris Protocol",
-        "logo": "https://s3.amazonaws.com/keybase_processed_uploads/b16f9929545f3555b785969488e37505_360_360.jpg",
+        "logo": "https://s3.amazonaws.com/keybase_processed_uploads/31e7ce87eba846c0617f28ca0f64d505_360_360.jpg",
         "decimals": 6
     },
     "terra1wez9puj43v4s25vrex7cv3ut3w75w4h6j5e537sujyuxj0r5ne2qp9uwl9": {
@@ -1462,6 +1462,17 @@
         "symbol": "SANTAKLAUS",
         "decimals": 6,
         "logo": "https://i.ibb.co/TqZfQZn/6995cc70-6043-46c7-90a7-8aca84122fc3.jpg"
-    }
-    
+    },
+    "terra1pyf0rp73neeyunvelqe2ps029pk3at5xg9sn8hnzvv3pehrjqf2qwx7grv": {
+        "name": "REX Token",
+        "symbol": "REX",
+        "decimals": 6,
+        "logo": "https://i.ibb.co.com/PhXGRCn/REX-token.png"
+    },
+    "terra10sfn80av99qkcx3rdpm4rt9hsguadyra5ewyxr": {
+        "symbol": "SON",
+        "name": "Sonic(k) Token",
+        "logo": "https://swap.sonikchain.com/sonic32.png",
+        "decimals": 6
+    }   
 }
