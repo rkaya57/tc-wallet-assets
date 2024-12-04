@@ -1457,6 +1457,12 @@
         "decimals": 6,
         "logo": "https://i.ibb.co.com/8c1fmGM/IMG-20240921-202013-833.jpg"
     },
+    "terra16vr6egq7p0eduy0d8jzp9gcea5v24p4ul5uky90za5052nr2gvcs5947ux": {
+        "name": "KLAUS",
+        "symbol": "SANTAKLAUS",
+        "decimals": 6,
+        "logo": "https://i.ibb.co/TqZfQZn/6995cc70-6043-46c7-90a7-8aca84122fc3.jpg"
+    },
     "terra1pyf0rp73neeyunvelqe2ps029pk3at5xg9sn8hnzvv3pehrjqf2qwx7grv": {
         "name": "REX Token",
         "symbol": "REX",
@@ -1468,6 +1474,5 @@
         "name": "Sonic(k) Token",
         "logo": "https://swap.sonikchain.com/sonic32.png",
         "decimals": 6
-    }
-    
+    }   
 }
