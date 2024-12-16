@@ -384,5 +384,9 @@
         "type": "cw20"
     },
     "contract": "terra1lq2266lyd3tzzgwnrdws4nqstey93qdvjk90stuwlz3fvtc027gsu2hwu5"
+        "denom": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
+        "type": "native"
+    },
+    "contract": "terra17tk9v62lgvum67rs2mx98h6kz86m6m7lg5k0gnv407xhgc957z5qsp404w"
 }
 ]
