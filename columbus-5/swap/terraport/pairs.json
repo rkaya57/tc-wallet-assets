@@ -373,16 +373,5 @@
         "type": "cw20"
     },
     "contract": "terra1waqdp69ly93kaj6k923nxzllzcshs8jmkzjk4fu3x3xcp6mqu5hsez0emq"
-},
-{
-    "asset_one": {
-        "denom": "uusd",
-        "type": "native"
-    },
-    "asset_two": {
-        "denom": "terra1syz36q23ga0g22vw5g9wnswqret35zg0mxhgv6vhhtyr8lh3jlcqhyz907",
-        "type": "cw20"
-    },
-    "contract": "terra1lq2266lyd3tzzgwnrdws4nqstey93qdvjk90stuwlz3fvtc027gsu2hwu5"
 }
 ]
