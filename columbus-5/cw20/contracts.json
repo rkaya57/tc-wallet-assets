@@ -1475,10 +1475,17 @@
         "logo": "https://swap.sonikchain.com/sonic32.png",
         "decimals": 6
     },
+    {
         "terra1gm4fzalxdhjt0hl398dhe9ln9ecj50m9dmr4x5558w59js02v9psqncdgd": {
         "symbol": "HNT",
         "name": "Historia Nova Token",
         "logo": "https://i.ibb.co/D5skyJr/Historia-Nova-Token.jpg",
         "decimals": 6
-    }  
+    },
+    "terra1syz36q23ga0g22vw5g9wnswqret35zg0mxhgv6vhhtyr8lh3jlcqhyz907": {
+        "symbol": "ADDVOW",
+        "name": "ADDVOW",
+        "logo": "https://i.ibb.co.com/1Gm86jt/addvow.jpg",
+        "decimals": 6
+    }
 }
